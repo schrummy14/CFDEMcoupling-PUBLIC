@@ -1,3 +1,6 @@
+This is a continuation of the work by CFDEM to add support to flexible fibers 
+as described in the repo : github.com/schrummy14/LIGGGHTS_Flexible_Fibers
+
 /*---------------------------------------------------------------------------*\
     CFDEMcoupling - Open Source CFD-DEM coupling
 
